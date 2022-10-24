@@ -1,0 +1,14 @@
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.csproj.AssemblyReference.cache
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.AssemblyInfoInputs.cache
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.AssemblyInfo.cs
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.csproj.CoreCompileInputs.cache
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\bin\Debug\netcoreapp3.1\DeckShuffle.exe
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\bin\Debug\netcoreapp3.1\DeckShuffle.deps.json
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\bin\Debug\netcoreapp3.1\DeckShuffle.runtimeconfig.json
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\bin\Debug\netcoreapp3.1\DeckShuffle.runtimeconfig.dev.json
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\bin\Debug\netcoreapp3.1\DeckShuffle.dll
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\bin\Debug\netcoreapp3.1\DeckShuffle.pdb
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.dll
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.pdb
+C:\Dev\Git\DeckShuffle\DeckShuffle\DeckShuffle\obj\Debug\netcoreapp3.1\DeckShuffle.genruntimeconfig.cache
